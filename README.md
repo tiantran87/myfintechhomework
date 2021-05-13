@@ -2,7 +2,7 @@
 # Title
 
 This is a hamster
-[image](images/hamster.jpg)
+![image](images/hamster.jpg)
 
 ---
 
