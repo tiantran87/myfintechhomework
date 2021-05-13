@@ -2,7 +2,7 @@
 # Title
 
 This is a hamster
-[image](~/images/hamster.jpg)
+[image](images/hamster.jpg)
 
 ---
 
@@ -10,10 +10,10 @@ This is a hamster
 
 ### Table of contents
 
-[Code](~/code)
+[Code](code)
 
-[Data](~/data)
+[Data](data)
 
-[Image](~/image)
+[Image](image)
 
-[References](~/References)
+[References](References)
